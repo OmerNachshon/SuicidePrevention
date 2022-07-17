@@ -9,7 +9,6 @@ Tutorial to deploy our bot:
 - Gmail token inside token files is still valid (expires after 3 days) [if expired , delete token and generate automatically new one]
 - All modules and python version are as stated in modules.txt file
 
-Watch demonstration video to see it in action 
 
 Enjoy reading and trying our bot + model!!!
 
