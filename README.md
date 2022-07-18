@@ -11,7 +11,10 @@ The project is meant to be a POC for usage of ML and AI agent to help decrease s
 Link to dataset: https://www.kaggle.com/nikhileswarkomati/suicide-watch?select=Suicide_Detection.csv
 Link to GloVe : https://www.kaggle.com/code/abhijitsingh001/suicidal-thought-detection/data
 
-Instructions in dir Requirements
+***GloVe file is required in the project, I did not upload it because it is a very large file.
+
+Instructions in dir "Requirements"
 
 GIFs:
 
+<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/UnequaledInsecureHackee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
