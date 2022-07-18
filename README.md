@@ -23,7 +23,7 @@ Ngrok
 
 Setup sandbox
 
-![setup_sandbox_gif_final](https://user-images.githubusercontent.com/87577792/179431588-593de465-026e-47ab-a8f6-594d5c75ceb7.gif)
+![setup_sandbox_gif_final](https://user-images.githubusercontent.com/87577792/179431752-85abc925-3034-4e38-9db1-3d0732de1142.gif)
 
 Hello message
 
@@ -31,11 +31,11 @@ Hello message
 
 Non suicidal message
 
-![happy_gif_final](https://user-images.githubusercontent.com/87577792/179431611-60171925-2205-4c75-b431-6abfd58501ab.gif)
+![happy_gif_final](https://user-images.githubusercontent.com/87577792/179431741-20e2b7b2-f19a-4cce-a90e-cfbe7c50134c.gif)
 
 Suicidal message
 
-![sad_gif_final](https://user-images.githubusercontent.com/87577792/179431617-d97b1e7e-d573-4654-a7eb-384f07906f7b.gif)
+![sad_gif_final](https://user-images.githubusercontent.com/87577792/179431736-7afad8b9-c114-4cc7-9311-9d9b55c72f23.gif)
 
 Logs in Gmail 
 
