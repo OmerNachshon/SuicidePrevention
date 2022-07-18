@@ -19,25 +19,26 @@ GIFs:
 
 Ngrok
 
-![ngrok gif final](https://user-images.githubusercontent.com/87577792/179431304-6823fa86-06e7-4a77-83cf-0375db40945c.gif)
+![ngrok_gif_final](https://user-images.githubusercontent.com/87577792/179431571-82bbd6fb-1c3d-40b0-a92c-118773a2673d.gif)
 
 Setup sandbox
 
-![setup_sandbox_gif_final](https://user-images.githubusercontent.com/87577792/179431344-ea0becae-6636-420f-a569-6f421e77ace6.gif)
-
+![setup_sandbox_gif_final](https://user-images.githubusercontent.com/87577792/179431588-593de465-026e-47ab-a8f6-594d5c75ceb7.gif)
 
 Hello message
 
-![hello_gif_final](https://user-images.githubusercontent.com/87577792/179431373-4d26dd73-2875-4f13-b5e9-d59d9724eb1f.gif)
+![hello_gif_final](https://user-images.githubusercontent.com/87577792/179431605-bf0e0593-1057-4fed-a651-88369ff8ebbb.gif)
 
 Non suicidal message
 
-![happy_gif_final](https://user-images.githubusercontent.com/87577792/179431383-09b8061a-cea5-4ece-8dc2-44f8ee46929d.gif)
+![happy_gif_final](https://user-images.githubusercontent.com/87577792/179431611-60171925-2205-4c75-b431-6abfd58501ab.gif)
 
 Suicidal message
 
-![sad_gif_final](https://user-images.githubusercontent.com/87577792/179431389-105bb992-495b-4ce1-a61d-c3ff77916584.gif)
+![sad_gif_final](https://user-images.githubusercontent.com/87577792/179431617-d97b1e7e-d573-4654-a7eb-384f07906f7b.gif)
 
 Logs in Gmail 
 
-![logs gif final](https://user-images.githubusercontent.com/87577792/179431142-87dc8a4a-5e7e-4c67-bcfd-7e33fd864db3.gif)
+![logs_final](https://user-images.githubusercontent.com/87577792/179431619-93851de2-30a6-4ba3-9300-1631b70231e1.gif)
+
+
