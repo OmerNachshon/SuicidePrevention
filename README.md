@@ -17,4 +17,4 @@ Instructions in dir "Requirements"
 
 GIFs:
 
-<div style='position:relative; padding-bottom:calc(56.25% + 44px)'><iframe src='https://gfycat.com/ifr/UnequaledInsecureHackee' frameborder='0' scrolling='no' width='100%' height='100%' style='position:absolute;top:0;left:0;' allowfullscreen></iframe></div>
+![logs gif final](https://user-images.githubusercontent.com/87577792/179431142-87dc8a4a-5e7e-4c67-bcfd-7e33fd864db3.gif)
